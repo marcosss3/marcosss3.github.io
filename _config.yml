@@ -1,20 +1,20 @@
 # Dependencies
 markdown:         kramdown
-highlighter:      pygments
+highlighter:      rouge
 
 # Permalinks
 permalink:        "/portfolio/:title.html"
 
 # Setup
 title:            Marcos Tam
-tagline:          'A Jekyll theme'
+tagline:          'Computer science undergraduate'
 description:      'Computer science undergraduate'
-url:              http://hyde.getpoole.com
+url:              
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Marcos Tam'
+  url:            
 
 paginate:         15
 paginate_path:    "/portfolio/page:num"
@@ -23,7 +23,7 @@ paginate_path:    "/portfolio/page:num"
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           
 
 # Gems
 gems:             [jekyll-paginate]
