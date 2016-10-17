@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fractal Explorer
+title: Mandelbrot Set
 description: Java GUI
 thumbnail: "/portfolio/images/fractal-explorer/thumbnail.png"
 ---
