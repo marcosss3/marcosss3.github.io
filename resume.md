@@ -33,13 +33,13 @@ Alternatively, download a <a href="{{ site.baseurl }}public/resources/curriculum
 
 		<div style="margin-bottom: 40px">
 		<b>MEng Computer Science</b>
-		<p style="color: #2e8ccf">University of Southampton, 2013-2017)</p>
+		<p style="color: #2e8ccf">University of Southampton, 2013-2017</p>
 		My third year project consisted in building the ScholarWiz interface, where I managed to achieve an 86% mark and a 79% average mark for my third year overall. Main modules include Java, UNIX shell &amp; Databases, Data Structures &amp; Algorithms, Intelligent Systems (AI), Functional Programming, Interaction Design, Networks, Computer Vision, Cloud App Development, Computer Graphics, Game Development and Data Visualisation.
 		</div>
 
 		<div style="margin-bottom: 40px">
 		<b>A-Levels and GCSEs</b>
-		<p style="color: #2e8ccf">British School of Gran Canaria, 2006-2013)</p>
+		<p style="color: #2e8ccf">British School of Gran Canaria, 2006-2013</p>
         A-Levels include AAAAa in Maths, Physics, Chemistry, Spanish and AS Art respectively.
 		</div>
 
@@ -75,8 +75,8 @@ Alternatively, download a <a href="{{ site.baseurl }}public/resources/curriculum
 		</div>
         
         <div style="margin-bottom: 40px">
-		<p style="color: #2e8ccf">Volunteer</b>
-		<p>Centro Socio-Sanitario El Sabinal, Gran Canaria, September 2011 – June 2013</p>
+		<b>Volunteer</b>
+		<p style="color: #2e8ccf">Centro Socio-Sanitario El Sabinal, Gran Canaria, September 2011 – June 2013</p>
 		Allowed me to make a positive impact on the community and showed me the importance of keeping a helpful attitude in work environments.
 		</div>
 
