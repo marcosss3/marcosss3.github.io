@@ -4,7 +4,7 @@
  <title>Marcos Tam</title>
  <link href="/atom.xml" rel="self"/>
  <link href="/"/>
- <updated>2016-10-17T18:58:00+01:00</updated>
+ <updated>2016-10-17T19:02:21+01:00</updated>
  <id></id>
  <author>
    <name>Marcos Tam</name>
@@ -176,7 +176,7 @@ and &lt;a&gt;AngularJS&lt;/a&gt; frameworks respectively, as well as a third par
    <link href="/portfolio/fractal-explorer.html"/>
    <updated>2014-02-20T00:00:00+00:00</updated>
    <id>/portfolio/fractal-explorer</id>
-   <content type="html">&lt;p&gt;This coursework…&lt;/p&gt;
+   <content type="html">&lt;p&gt;The objetive of this coursework was to build a Java application which creates a Graphical User Interface which is capable of rendering a depiction of the well-known fractal, the Mandelbrot Set. In addition to this, the user will be able to a select a point from the Mandelbrot set display using a mouse click. For this selected point, the Julia Set corresponding to that point will be visualised in an adjacent window or panel.&lt;/p&gt;
 
 &lt;p&gt;Technologies used:&lt;/p&gt;
 
