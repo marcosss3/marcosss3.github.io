@@ -1,0 +1,33 @@
+<div class="sidebar">
+  <div class="container" style="margin-top: 80px; text-align: right; margin-right: 30px">
+    <div class="sidebar-about" style="margin-bottom: 30px">
+      <h1>
+        <!--<a href="{{ site.baseurl }}">
+          {{ site.title }}
+        </a>-->
+          {{ site.title }}
+      </h1>
+      <p class="lead">{{ site.description }}</p>
+    </div>
+
+    <nav class="sidebar-nav">
+
+        {{page.url}}
+        
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">About</a>
+
+      <a class="sidebar-nav-item{% if page.url == /portfolio/ %} active{% endif %}" href="{{ site.baseurl }}portfolio">Portfolio</a>
+
+      {% assign pages_list = site.pages %}
+      {% for node in pages_list %}
+        {% if node.title != null %}
+          {% if node.layout == "page" %}
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}/">{{ node.title }}</a>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+
+    </nav>
+
+  </div>
+</div>

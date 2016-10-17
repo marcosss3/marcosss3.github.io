@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Marcos Tam</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2016-10-17T09:10:02+01:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Mark Otto</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>ScholarWiz</title>
+   <link href="http://localhost:4000/portfolio/scholarwiz.html"/>
+   <updated>2016-04-20T00:00:00+01:00</updated>
+   <id>http://localhost:4000/portfolio/scholarwiz</id>
+   <content type="html">&lt;p&gt;My third year project consisted in building an innovative user interface that clearly displays core metadata from academic papers and features user interaction techniques as well as useful visualizations which enable pleasant search and discovery experiences. The system is implemented as a web application with a Java server-side and a JavaScript client-side, using the &lt;a&gt;Spark&lt;/a&gt;
+and &lt;a&gt;AngularJS&lt;/a&gt; frameworks respectively, as well as a third party database API (&lt;a&gt;Scopus&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Technologies used:&lt;/p&gt;
+
+&lt;p class=&quot;message&quot;&gt;
+  JavaScript, HTML5, CSS3, Java, AngularJS, Spark Framework, Scopus API
+&lt;/p&gt;
+
+&lt;div class=&quot;separator&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;/portfolio/images/scholarwiz/1.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/scholarwiz/2.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/scholarwiz/3.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/scholarwiz/4.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/scholarwiz/5.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/scholarwiz/6.png&quot; class=&quot;post-img&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Arena</title>
+   <link href="http://localhost:4000/portfolio/the-arena.html"/>
+   <updated>2016-04-14T00:00:00+01:00</updated>
+   <id>http://localhost:4000/portfolio/the-arena</id>
+   <content type="html">&lt;p&gt;This coursework for Computer Graphics consisted in building a 3D animation of a modestly complex scenario. The topic for this year was ‘The Arena’.&lt;/p&gt;
+
+&lt;p&gt;Technologies used:&lt;/p&gt;
+
+&lt;p class=&quot;message&quot;&gt;
+  C++, OpenGL
+&lt;/p&gt;
+
+&lt;div class=&quot;separator&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;/portfolio/images/the-arena/1.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/the-arena/2.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/the-arena/3.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/the-arena/process.gif&quot; class=&quot;post-img&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>This or That</title>
+   <link href="http://localhost:4000/portfolio/this-or-that.html"/>
+   <updated>2016-01-05T00:00:00+00:00</updated>
+   <id>http://localhost:4000/portfolio/this-or-that</id>
+   <content type="html">&lt;p&gt;ThisOrThat is an app designed to help you get the answers to niggling questions, settle disputes between friends and canvass public opinion.&lt;/p&gt;
+
+&lt;p&gt;Technologies used:&lt;/p&gt;
+
+&lt;p class=&quot;message&quot;&gt;
+  JavaScript, HTML5, CSS3, Python, AngularJS, webapp2
+&lt;/p&gt;
+
+&lt;p&gt;Team members:&lt;/p&gt;
+
+&lt;p class=&quot;message&quot;&gt;
+  Ben, George, Jack, Marcos, Ted, Zoe
+&lt;/p&gt;
+
+&lt;div class=&quot;separator&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;/portfolio/images/this-or-that/1.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/this-or-that/2.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/this-or-that/3.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/this-or-that/4.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/this-or-that/5.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/this-or-that/6.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/this-or-that/7.png&quot; class=&quot;post-img&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Final Light</title>
+   <link href="http://localhost:4000/portfolio/final-light.html"/>
+   <updated>2015-12-17T00:00:00+00:00</updated>
+   <id>http://localhost:4000/portfolio/final-light</id>
+   <content type="html">&lt;p&gt;A simple game made within 48 hours for the 2016 Global Game Jam. The theme of the Jam was ‘Ritual’, and our interpretation of the theme was a father’s nightly ritual, in which he must venture into a dark forest in search of wood in hopes of surviving till morning, leaving his son by the safety of the fire.&lt;/p&gt;
+
+&lt;p&gt;Technologies used:&lt;/p&gt;
+
+&lt;p class=&quot;message&quot;&gt;
+  Java, libGDX, aseprite
+&lt;/p&gt;
+
+&lt;p&gt;Team Members:&lt;/p&gt;
+
+&lt;p class=&quot;message&quot;&gt;
+  Marcos, Ted
+&lt;/p&gt;
+
+&lt;div class=&quot;separator&quot;&gt;&lt;/div&gt;
+
+&lt;div class=&quot;img-row&quot;&gt;
+ &lt;img src=&quot;/portfolio/images/final-light/1.png&quot; alt=&quot;&quot; /&gt; 
+ &lt;img src=&quot;/portfolio/images/final-light/2.png&quot; alt=&quot;&quot; /&gt;
+ &lt;img src=&quot;/portfolio/images/final-light/3.png&quot; alt=&quot;&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;/portfolio/images/final-light/anim1.gif&quot; style=&quot;width: 100%&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/final-light/anim2.gif&quot; style=&quot;width: 100%&quot; class=&quot;post-img&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Ad Dashboard</title>
+   <link href="http://localhost:4000/portfolio/ad-dashboard.html"/>
+   <updated>2015-04-20T00:00:00+01:00</updated>
+   <id>http://localhost:4000/portfolio/ad-dashboard</id>
+   <content type="html">&lt;p&gt;This project consisted in developing a Java desktop application that analyses a set of data provided in CSV files and processes it to display key metrics and graphs in a user-friendly dashboard. Libraries such as uniVocity and JavaFX were used to parse CSV data efficiently into memory and produce professional and intuitive graphs.&lt;/p&gt;
+
+&lt;p&gt;Technologies used:&lt;/p&gt;
+
+&lt;p class=&quot;message&quot;&gt;
+  Java
+&lt;/p&gt;
+
+&lt;p&gt;Team Members:&lt;/p&gt;
+
+&lt;p class=&quot;message&quot;&gt;
+  Amogh, George, Marcos, Oliver
+&lt;/p&gt;
+
+&lt;div class=&quot;separator&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;/portfolio/images/dashboard/1.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/dashboard/2.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/dashboard/3.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/dashboard/4.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/dashboard/5.png&quot; class=&quot;post-img&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Light-box</title>
+   <link href="http://localhost:4000/portfolio/light-box.html"/>
+   <updated>2015-03-20T00:00:00+00:00</updated>
+   <id>http://localhost:4000/portfolio/light-box</id>
+   <content type="html">&lt;p&gt;This coursework requires you to design an interface for consumers to confgure an hypothetical IoT device that has no keyboard nor high resolution visual display. The “Light-box” is designed to increase remote awareness of two households. It needs to be connected to an existing Wi-Fi network to connect to the internet, and in turn, to another light- box.&lt;/p&gt;
+
+&lt;p&gt;Technologies used:&lt;/p&gt;
+
+&lt;p class=&quot;message&quot;&gt;
+  Balsamiq Mockups
+&lt;/p&gt;
+
+&lt;div class=&quot;separator&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;/portfolio/images/light-box/1.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/light-box/2.png&quot; class=&quot;post-img&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Fractal Explorer</title>
+   <link href="http://localhost:4000/portfolio/fractal-explorer.html"/>
+   <updated>2014-02-20T00:00:00+00:00</updated>
+   <id>http://localhost:4000/portfolio/fractal-explorer</id>
+   <content type="html">&lt;p&gt;This coursework…&lt;/p&gt;
+
+&lt;p&gt;Technologies used:&lt;/p&gt;
+
+&lt;p class=&quot;message&quot;&gt;
+  Java
+&lt;/p&gt;
+
+&lt;div class=&quot;separator&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;/portfolio/images/fractal-explorer/1.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/fractal-explorer/2.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/fractal-explorer/3.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/fractal-explorer/4.png&quot; class=&quot;post-img&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Graphic Design</title>
+   <link href="http://localhost:4000/portfolio/graphics.html"/>
+   <updated>2013-06-30T00:00:00+01:00</updated>
+   <id>http://localhost:4000/portfolio/graphics</id>
+   <content type="html">&lt;p&gt;This is a collection of some graphic design work that I have done in the past. Some pieces such as event flyers were made upon request, other pieces were created for either A-Level or GCSE art, and the rest served as experimentation and self-teaching.&lt;/p&gt;
+
+&lt;p&gt;Technologies used:&lt;/p&gt;
+
+&lt;p class=&quot;message&quot;&gt;
+  Adobe Photoshop, Adobe Illustrator, Cinema 4D
+&lt;/p&gt;
+
+&lt;div class=&quot;separator&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;/portfolio/images/graphics/1.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/graphics/2.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/graphics/3.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/graphics/4.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/graphics/5.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/graphics/6.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/graphics/7.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/graphics/8.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/graphics/9.jpg&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/graphics/10.jpg&quot; class=&quot;post-img&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Artwork</title>
+   <link href="http://localhost:4000/portfolio/artwork.html"/>
+   <updated>2012-02-07T00:00:00+00:00</updated>
+   <id>http://localhost:4000/portfolio/artwork</id>
+   <content type="html">&lt;p&gt;This is a collection of some artwork that I did for the AS Art examination. The topic was “Transparent”.&lt;/p&gt;
+
+&lt;p&gt;Tools used:&lt;/p&gt;
+
+&lt;p class=&quot;message&quot;&gt;
+  Pencil, Pen, Soft Pastels, Watercolours
+&lt;/p&gt;
+
+&lt;div class=&quot;separator&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;/portfolio/images/artwork/1.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/artwork/2.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/artwork/3.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/artwork/4.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/artwork/5.png&quot; class=&quot;post-img&quot; /&gt;&lt;/p&gt;
+
+&lt;!--
+
+&lt;div class=&quot;message&quot;&gt;
+  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
+&lt;/div&gt;
+
+Cum sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+
+&gt; Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+
+Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+
+## Inline HTML elements
+
+HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+
+- **To bold text**, use `&lt;strong&gt;`.
+- *To italicize text*, use `&lt;em&gt;`.
+- Abbreviations, like &lt;abbr title=&quot;HyperText Markup Langage&quot;&gt;HTML&lt;/abbr&gt; should use `&lt;abbr&gt;`, with an optional `title` attribute for the full phrase.
+- Citations, like &lt;cite&gt;&amp;mdash; Mark otto&lt;/cite&gt;, should use `&lt;cite&gt;`.
+- &lt;del&gt;Deleted&lt;/del&gt; text should use `&lt;del&gt;` and &lt;ins&gt;inserted&lt;/ins&gt; text should use `&lt;ins&gt;`.
+- Superscript &lt;sup&gt;text&lt;/sup&gt; uses `&lt;sup&gt;` and subscript &lt;sub&gt;text&lt;/sub&gt; uses `&lt;sub&gt;`.
+
+Most of these elements are styled by browsers with few modifications on our part.
+
+## Heading
+
+Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+
+### Code
+
+Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
+
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// Example can be run directly in your JavaScript console&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// Create a function that takes two arguments and returns the sum of those arguments&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;a&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;b&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;return a + b&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// Call the function&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;// &amp;gt; 8&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+
+Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
+
+### Gists via GitHub Pages
+
+Vestibulum id ligula porta felis euismod semper. Nullam quis risus eget urna mollis ornare vel eu leo. Donec sed odio dui.
+
+Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sed odio dui. Vestibulum id ligula porta felis euismod semper.
+
+### Lists
+
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+
+* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+* Donec id elit non mi porta gravida at eget metus.
+* Nulla vitae elit libero, a pharetra augue.
+
+Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
+
+1. Vestibulum id ligula porta felis euismod semper.
+2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+3. Maecenas sed diam eget risus varius blandit sit amet non magna.
+
+Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
+
+&lt;dl&gt;
+  &lt;dt&gt;HyperText Markup Language (HTML)&lt;/dt&gt;
+  &lt;dd&gt;The language used to describe and define the content of a Web page&lt;/dd&gt;
+
+  &lt;dt&gt;Cascading Style Sheets (CSS)&lt;/dt&gt;
+  &lt;dd&gt;Used to describe the appearance of Web content&lt;/dd&gt;
+
+  &lt;dt&gt;JavaScript (JS)&lt;/dt&gt;
+  &lt;dd&gt;The programming language used to build advanced Web sites and applications&lt;/dd&gt;
+&lt;/dl&gt;
+
+Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
+
+### Images
+
+Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
+
+![placeholder](http://placehold.it/800x400 &quot;Large example image&quot;)
+![placeholder](http://placehold.it/400x200 &quot;Medium example image&quot;)
+![placeholder](http://placehold.it/200x200 &quot;Small example image&quot;)
+
+### Tables
+
+Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Name&lt;/th&gt;
+      &lt;th&gt;Upvotes&lt;/th&gt;
+      &lt;th&gt;Downvotes&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tfoot&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Totals&lt;/td&gt;
+      &lt;td&gt;21&lt;/td&gt;
+      &lt;td&gt;23&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tfoot&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Alice&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;11&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Bob&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Charlie&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
+
+-----
+
+Want to see something else added? &lt;a href=&quot;https://github.com/poole/poole/issues/new&quot;&gt;Open an issue.&lt;/a&gt;
+
+--&gt;
+</content>
+ </entry>
+ 
+
+</feed>

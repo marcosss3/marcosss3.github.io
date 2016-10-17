@@ -1,0 +1,50 @@
+---
+layout: default
+title: Portfolio
+---
+
+<div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post" style="display: inline-table; margin: 18px 16px">
+      
+      <a href="{{ post.url }}" style="text-decoration: none">
+        <div class="thumbnail" style="background: url({{ post.thumbnail }}); background-size: 254px 254px;">
+            <div class="overlay"></div>
+            <div class="thumbnail-container">
+                <description-text>{{post.description}}</description-text>
+                <p>{{post.title}}</p>
+            </div>
+        </div>
+      </a>
+      
+      <!--
+      <a href="{{ post.url }}">
+        <img src="{{ post.thumbnail }}" style="width:250px; height:250px; border-radius: 0px"/>
+        {{ post.title }}
+      </a>
+      -->
+      
+  </div>
+  {% endfor %}
+</div>
+
+<!--
+
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
+    {% else %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>
+
+-->
