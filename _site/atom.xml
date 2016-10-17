@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Marcos Tam</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2016-10-17T09:10:02+01:00</updated>
- <id>http://localhost:4000</id>
+ <link href="/atom.xml" rel="self"/>
+ <link href="/"/>
+ <updated>2016-10-17T18:52:28+01:00</updated>
+ <id></id>
  <author>
-   <name>Mark Otto</name>
+   <name>Marcos Tam</name>
    <email></email>
  </author>
 
  
  <entry>
    <title>ScholarWiz</title>
-   <link href="http://localhost:4000/portfolio/scholarwiz.html"/>
+   <link href="/portfolio/scholarwiz.html"/>
    <updated>2016-04-20T00:00:00+01:00</updated>
-   <id>http://localhost:4000/portfolio/scholarwiz</id>
+   <id>/portfolio/scholarwiz</id>
    <content type="html">&lt;p&gt;My third year project consisted in building an innovative user interface that clearly displays core metadata from academic papers and features user interaction techniques as well as useful visualizations which enable pleasant search and discovery experiences. The system is implemented as a web application with a Java server-side and a JavaScript client-side, using the &lt;a&gt;Spark&lt;/a&gt;
 and &lt;a&gt;AngularJS&lt;/a&gt; frameworks respectively, as well as a third party database API (&lt;a&gt;Scopus&lt;/a&gt;).&lt;/p&gt;
 
@@ -39,9 +39,9 @@ and &lt;a&gt;AngularJS&lt;/a&gt; frameworks respectively, as well as a third par
  
  <entry>
    <title>The Arena</title>
-   <link href="http://localhost:4000/portfolio/the-arena.html"/>
+   <link href="/portfolio/the-arena.html"/>
    <updated>2016-04-14T00:00:00+01:00</updated>
-   <id>http://localhost:4000/portfolio/the-arena</id>
+   <id>/portfolio/the-arena</id>
    <content type="html">&lt;p&gt;This coursework for Computer Graphics consisted in building a 3D animation of a modestly complex scenario. The topic for this year was ‘The Arena’.&lt;/p&gt;
 
 &lt;p&gt;Technologies used:&lt;/p&gt;
@@ -61,9 +61,9 @@ and &lt;a&gt;AngularJS&lt;/a&gt; frameworks respectively, as well as a third par
  
  <entry>
    <title>This or That</title>
-   <link href="http://localhost:4000/portfolio/this-or-that.html"/>
+   <link href="/portfolio/this-or-that.html"/>
    <updated>2016-01-05T00:00:00+00:00</updated>
-   <id>http://localhost:4000/portfolio/this-or-that</id>
+   <id>/portfolio/this-or-that</id>
    <content type="html">&lt;p&gt;ThisOrThat is an app designed to help you get the answers to niggling questions, settle disputes between friends and canvass public opinion.&lt;/p&gt;
 
 &lt;p&gt;Technologies used:&lt;/p&gt;
@@ -92,9 +92,9 @@ and &lt;a&gt;AngularJS&lt;/a&gt; frameworks respectively, as well as a third par
  
  <entry>
    <title>Final Light</title>
-   <link href="http://localhost:4000/portfolio/final-light.html"/>
+   <link href="/portfolio/final-light.html"/>
    <updated>2015-12-17T00:00:00+00:00</updated>
-   <id>http://localhost:4000/portfolio/final-light</id>
+   <id>/portfolio/final-light</id>
    <content type="html">&lt;p&gt;A simple game made within 48 hours for the 2016 Global Game Jam. The theme of the Jam was ‘Ritual’, and our interpretation of the theme was a father’s nightly ritual, in which he must venture into a dark forest in search of wood in hopes of surviving till morning, leaving his son by the safety of the fire.&lt;/p&gt;
 
 &lt;p&gt;Technologies used:&lt;/p&gt;
@@ -124,9 +124,9 @@ and &lt;a&gt;AngularJS&lt;/a&gt; frameworks respectively, as well as a third par
  
  <entry>
    <title>Ad Dashboard</title>
-   <link href="http://localhost:4000/portfolio/ad-dashboard.html"/>
+   <link href="/portfolio/ad-dashboard.html"/>
    <updated>2015-04-20T00:00:00+01:00</updated>
-   <id>http://localhost:4000/portfolio/ad-dashboard</id>
+   <id>/portfolio/ad-dashboard</id>
    <content type="html">&lt;p&gt;This project consisted in developing a Java desktop application that analyses a set of data provided in CSV files and processes it to display key metrics and graphs in a user-friendly dashboard. Libraries such as uniVocity and JavaFX were used to parse CSV data efficiently into memory and produce professional and intuitive graphs.&lt;/p&gt;
 
 &lt;p&gt;Technologies used:&lt;/p&gt;
@@ -153,9 +153,9 @@ and &lt;a&gt;AngularJS&lt;/a&gt; frameworks respectively, as well as a third par
  
  <entry>
    <title>Light-box</title>
-   <link href="http://localhost:4000/portfolio/light-box.html"/>
+   <link href="/portfolio/light-box.html"/>
    <updated>2015-03-20T00:00:00+00:00</updated>
-   <id>http://localhost:4000/portfolio/light-box</id>
+   <id>/portfolio/light-box</id>
    <content type="html">&lt;p&gt;This coursework requires you to design an interface for consumers to confgure an hypothetical IoT device that has no keyboard nor high resolution visual display. The “Light-box” is designed to increase remote awareness of two households. It needs to be connected to an existing Wi-Fi network to connect to the internet, and in turn, to another light- box.&lt;/p&gt;
 
 &lt;p&gt;Technologies used:&lt;/p&gt;
@@ -172,10 +172,10 @@ and &lt;a&gt;AngularJS&lt;/a&gt; frameworks respectively, as well as a third par
  </entry>
  
  <entry>
-   <title>Fractal Explorer</title>
-   <link href="http://localhost:4000/portfolio/fractal-explorer.html"/>
+   <title>Mandelbrot Set</title>
+   <link href="/portfolio/fractal-explorer.html"/>
    <updated>2014-02-20T00:00:00+00:00</updated>
-   <id>http://localhost:4000/portfolio/fractal-explorer</id>
+   <id>/portfolio/fractal-explorer</id>
    <content type="html">&lt;p&gt;This coursework…&lt;/p&gt;
 
 &lt;p&gt;Technologies used:&lt;/p&gt;
@@ -195,9 +195,9 @@ and &lt;a&gt;AngularJS&lt;/a&gt; frameworks respectively, as well as a third par
  
  <entry>
    <title>Graphic Design</title>
-   <link href="http://localhost:4000/portfolio/graphics.html"/>
+   <link href="/portfolio/graphics.html"/>
    <updated>2013-06-30T00:00:00+01:00</updated>
-   <id>http://localhost:4000/portfolio/graphics</id>
+   <id>/portfolio/graphics</id>
    <content type="html">&lt;p&gt;This is a collection of some graphic design work that I have done in the past. Some pieces such as event flyers were made upon request, other pieces were created for either A-Level or GCSE art, and the rest served as experimentation and self-teaching.&lt;/p&gt;
 
 &lt;p&gt;Technologies used:&lt;/p&gt;
@@ -223,9 +223,9 @@ and &lt;a&gt;AngularJS&lt;/a&gt; frameworks respectively, as well as a third par
  
  <entry>
    <title>Artwork</title>
-   <link href="http://localhost:4000/portfolio/artwork.html"/>
+   <link href="/portfolio/artwork.html"/>
    <updated>2012-02-07T00:00:00+00:00</updated>
-   <id>http://localhost:4000/portfolio/artwork</id>
+   <id>/portfolio/artwork</id>
    <content type="html">&lt;p&gt;This is a collection of some artwork that I did for the AS Art examination. The topic was “Transparent”.&lt;/p&gt;
 
 &lt;p&gt;Tools used:&lt;/p&gt;
@@ -276,12 +276,15 @@ Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est 
 Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
 
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// Example can be run directly in your JavaScript console&lt;/span&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// Example can be run directly in your JavaScript console
+&lt;/span&gt;
 
-&lt;span class=&quot;c1&quot;&gt;// Create a function that takes two arguments and returns the sum of those arguments&lt;/span&gt;
-&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;a&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;b&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;return a + b&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;// Create a function that takes two arguments and returns the sum of those arguments
+&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;a&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;b&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;return a + b&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
 
-&lt;span class=&quot;c1&quot;&gt;// Call the function&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;// Call the function
+&lt;/span&gt;
 &lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
 &lt;span class=&quot;c1&quot;&gt;// &amp;gt; 8&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 

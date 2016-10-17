@@ -11,6 +11,8 @@
             </h1>
         
             <p class="lead">{{ site.description }}</p>
+            
+            <p style="font-size: 15px"><i class="fa fa-map-marker" aria-hidden="true" style="margin-right: 2px"></i> Southampton</p>
 
             <a href="https://uk.linkedin.com/in/marcos-tam-aa415ab9" target=_blank>
                 <i class="fa fa-linkedin-square" aria-hidden="true" style="margin-right: 4px"></i>
@@ -25,7 +27,7 @@
         
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">About</a>
 
-      <a class="sidebar-nav-item{% if page.url == /portfolio/ %} active{% endif %}" href="{{ site.baseurl }}portfolio">Portfolio</a>
+      <a class="sidebar-nav-item{% if page.url == site.baseurl/portfolio/ %} active{% endif %}" href="{{ site.baseurl }}portfolio">Portfolio</a>
 
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
