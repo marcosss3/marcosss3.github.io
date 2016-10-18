@@ -27,7 +27,7 @@
         
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">About</a>
 
-      <a class="sidebar-nav-item{% if page.url == site.baseurl/portfolio/ %} active{% endif %}" href="{{ site.baseurl }}portfolio">Portfolio</a>
+      <a class="sidebar-nav-item{% if page.url == '/portfolio/' %} active{% endif %}" href="{{ site.baseurl }}portfolio">Portfolio</a>
 
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
