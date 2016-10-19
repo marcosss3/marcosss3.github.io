@@ -5,12 +5,9 @@ title: Resume
 
 Alternatively, download a <a href="{{ site.baseurl }}public/resources/curriculum.pdf" target="_blank">PDF version</a>
 
-<div style="display: flex; margin-top: 40px; margin-bottom: 10px;
-	border-width: 1px;
-   	border-bottom-color: #dddddd;
-   	border-bottom-style: solid;">
+<div class="resume-section">
 
-	<div style="min-width:200px">PROFILE</div>
+	<div class="section-title">PROFILE</div>
 
 	<div>
 
@@ -22,12 +19,9 @@ Alternatively, download a <a href="{{ site.baseurl }}public/resources/curriculum
 
 </div>
 
-<div style="display: flex; margin-top: 40px; margin-bottom: 10px;
-	border-width: 1px;
-   	border-bottom-color: #dddddd;
-   	border-bottom-style: solid;">
+<div class="resume-section">
 
-	<div style="min-width:200px">EDUCATION</div>
+	<div class="section-title">EDUCATION</div>
 
 	<div>
 
@@ -47,12 +41,9 @@ Alternatively, download a <a href="{{ site.baseurl }}public/resources/curriculum
 
 </div>
 
-<div style="display: flex; margin-top: 40px; margin-bottom: 10px;
-	border-width: 1px;
-   	border-bottom-color: #dddddd;
-   	border-bottom-style: solid;">
+<div class="resume-section">
 
-	<div style="min-width:200px">WORK EXPERIENCE</div>
+	<div class="section-title">WORK EXPERIENCE</div>
 
 	<div>
 
@@ -84,11 +75,11 @@ Alternatively, download a <a href="{{ site.baseurl }}public/resources/curriculum
 
 </div>
 
-<div style="display: flex; margin-top: 40px; margin-bottom: 10px;">
+<div class="skill-section" style="margin-top: 40px;">
 
-	<div style="min-width:200px">DEVELOPMENT</div>
+	<div class="section-title">DEVELOPMENT</div>
 
-	<div style="display: flex">
+	<div class="skill-columns">
 
 		<div style="min-width:360px; margin-bottom: 40px">
 		<p><b>Comfortable with</b></p>
@@ -114,11 +105,11 @@ Alternatively, download a <a href="{{ site.baseurl }}public/resources/curriculum
 
 </div>
 
-<div style="display: flex; margin-bottom: 10px;">
+<div class="skill-section">
 
-	<div style="min-width:200px">MEDIA / OFFICE</div>
+	<div class="section-title">MEDIA / OFFICE</div>
 
-	<div style="display: flex">
+	<div class="skill-columns">
 
 		<div style="min-width:360px; margin-bottom: 40px">
 		<p><b>Comfortable with</b></p>
@@ -142,11 +133,11 @@ Alternatively, download a <a href="{{ site.baseurl }}public/resources/curriculum
 
 </div>
 
-<div style="display: flex; margin-bottom: 10px;">
+<div class="skill-section" style="border-width: 0px;">
 
-	<div style="min-width:200px">LANGUAGES</div>
+	<div class="section-title">LANGUAGES</div>
 
-	<div style="display: flex">
+	<div class="skill-columns">
 
 		<div style="min-width:360px;">
 		<p><b>Native / Fluent</b></p>
