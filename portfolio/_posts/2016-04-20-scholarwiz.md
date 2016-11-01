@@ -7,7 +7,7 @@ thumbnail: "/portfolio/images/scholarwiz/thumbnail.png"
 
 Read the full paper <a href="{{ site.baseurl }}public/resources/Thesis.pdf" target="_blank">here</a>.
 
-My third year project consisted in building an innovative user interface that clearly displays core metadata from academic papers and features user interaction techniques as well as useful visualizations which enable pleasant search and discovery experiences. The system is implemented as a web application with a Java server-side and a JavaScript client-side, using the <a>Spark</a> and <a>AngularJS</a> frameworks respectively, as well as a third party database API (<a>Scopus</a>).
+My third year project consisted in building an innovative user interface that clearly displays core metadata from academic papers and features user interaction techniques as well as useful visualizations which enable pleasant search and discovery experiences. The system is implemented as a web application with a Java server-side and a JavaScript client-side, using the Spark and AngularJS frameworks respectively, as well as a third party database API (Scopus).
 
 Technologies used:
 
