@@ -12,7 +12,7 @@ Alternatively, download a <a href="{{ site.baseurl }}public/resources/curriculum
 	<div>
 
 		<div style="margin-bottom: 40px">
-		A dedicated and versatile undergraduate seeking a technology position which will utilise the technical and creative skills that I have developed through my computer science degree at the University of Southampton as well as past work experience. I have a particular interest in data visualisation and believe that I possess the necessary artistic skills and experience with relevant technologies to excel in this field.
+		A versatile undergraduate seeking a technology position which will utilise the technical and creative skills that I have developed through my computer science degree at the University of Southampton as well as past work experience. I have a particular interest in UI design and data visualisation, and believe that I possess the artistic skills and experience with relevant technologies that are necessary to excel in these fields.
 		</div>
 
 	</div>
@@ -85,7 +85,7 @@ Alternatively, download a <a href="{{ site.baseurl }}public/resources/curriculum
 		<p><b>Comfortable with</b></p>
 		<ul>
 			<li>Java (Spring, Spark)</li>
-			<li>JavaScript (AngularJS, React, Jekyll)</li>
+			<li>JavaScript (AngularJS, React)</li>
 			<li>HTML5 and CSS3</li>
 			<li>Bash</li>
 		</ul>
@@ -133,7 +133,7 @@ Alternatively, download a <a href="{{ site.baseurl }}public/resources/curriculum
 
 </div>
 
-<div class="skill-section" style="border-width: 0px;">
+<div class="skill-section">
 
 	<div class="section-title">LANGUAGES</div>
 
@@ -153,6 +153,31 @@ Alternatively, download a <a href="{{ site.baseurl }}public/resources/curriculum
 			<li>French</li>
 			<li>Mandarin</li>
 		</ul>
+		</div>
+
+	</div>
+
+</div>
+
+<div class="resume-section" style="border-width: 0px;">
+
+	<div class="section-title">INTERESTS</div>
+
+	<div>
+
+		<div style="margin-bottom: 40px">
+		<b>Graphic Design</b>
+		Designed flyers for local parties and school events.
+		</div>
+
+		<div style="margin-bottom: 40px">
+		<b>Web Design</b>
+		Built online portfolios with self-taught HTML, CSS and JavaScript.
+		</div>
+        
+        <div style="margin-bottom: 40px">
+		<b>Game Development</b>
+		Participated in the Global Game Jam hosted in Southampton.
 		</div>
 
 	</div>
