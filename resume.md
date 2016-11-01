@@ -139,7 +139,7 @@ Alternatively, download a <a href="{{ site.baseurl }}public/resources/curriculum
 
 	<div class="skill-columns">
 
-		<div style="min-width:360px;">
+		<div style="min-width:360px; margin-bottom: 40px">
 		<p><b>Native / Fluent</b></p>
 		<ul>
 			<li>Spanish</li>
@@ -147,7 +147,7 @@ Alternatively, download a <a href="{{ site.baseurl }}public/resources/curriculum
 		</ul>
 		</div>
 
-		<div>
+		<div style="margin-bottom: 40px">
 		<p><b>Basic</b></p>
 		<ul>
 			<li>French</li>
@@ -167,17 +167,17 @@ Alternatively, download a <a href="{{ site.baseurl }}public/resources/curriculum
 
 		<div style="margin-bottom: 40px">
 		<b>Graphic Design</b>
-		Designed flyers for local parties and school events.
+		<p>Designed flyers for local parties and school events.</p>
 		</div>
 
 		<div style="margin-bottom: 40px">
 		<b>Web Design</b>
-		Built online portfolios with self-taught HTML, CSS and JavaScript.
+		<p>Built online portfolios with self-taught HTML, CSS and JavaScript.</p>
 		</div>
         
         <div style="margin-bottom: 40px">
 		<b>Game Development</b>
-		Participated in the Global Game Jam hosted in Southampton.
+		<p>Participated in the Global Game Jam hosted in Southampton.</p>
 		</div>
 
 	</div>
