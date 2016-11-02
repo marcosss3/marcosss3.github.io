@@ -15,9 +15,13 @@ Technologies used:
 
 <div class="separator"></div>
 
+<div style="text-align: center">
+
 <img src="{{ site.baseurl }}portfolio/images/auction-system/1.png" class="post-img">
 <img src="{{ site.baseurl }}portfolio/images/auction-system/2.png" class="post-img">
 <img src="{{ site.baseurl }}portfolio/images/auction-system/3.png" class="post-img">
 <img src="{{ site.baseurl }}portfolio/images/auction-system/4.png" class="post-img">
 <img src="{{ site.baseurl }}portfolio/images/auction-system/5.png" class="post-img">
 <img src="{{ site.baseurl }}portfolio/images/auction-system/6.png" class="post-img">
+
+</div>
