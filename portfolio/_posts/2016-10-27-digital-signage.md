@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Digital Signage (in progress)
+title: Digital Signage
 description: Tablet App
 thumbnail: "/portfolio/images/digital-signage/thumbnail.png"
 ---
