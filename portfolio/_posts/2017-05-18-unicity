@@ -1,0 +1,28 @@
+---
+layout: post
+title: UniCity
+description: Web App
+thumbnail: "/portfolio/images/unicity/thumbnail.png"
+---
+
+Open data is the basis to provide intuitive and assistive applications or software. Data is typically raw and requires deciphering. With the help of application development, they can act as a source for intangible information. Therefore, with the help of UniCity, this application can act as a platform for upcoming university students to retrieve vital information in regards to their respective universities. Moreover, the application also provides API capabilities for developers seeking readily available data to be exported and exposed in whatever their style or fashion.
+
+Technologies used:
+
+<p class="message">
+  JavaScript, HTML5, CSS3, AngularJS, Google Charts
+</p>
+
+Team members:
+
+<p class="message">
+  Edita, George, Marcos, Richard, Thomas
+</p>
+
+<div class="separator"></div>
+
+<img src="{{ site.baseurl }}portfolio/images/unicity/1.png" class="post-img">
+<img src="{{ site.baseurl }}portfolio/images/unicity/2.png" class="post-img">
+<img src="{{ site.baseurl }}portfolio/images/unicity/3.png" class="post-img">
+<img src="{{ site.baseurl }}portfolio/images/unicity/4.png" class="post-img">
+<img src="{{ site.baseurl }}portfolio/images/unicity/5.png" class="post-img">
