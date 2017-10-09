@@ -28,7 +28,10 @@ Alternatively, download a <a href="{{ site.baseurl }}public/resources/curriculum
 		<div style="margin-bottom: 40px">
 		<b>MEng Computer Science</b>
 		<p style="color: #2e8ccf">University of Southampton, 2013-2017</p>
-		My third year project consisted in building the ScholarWiz interface, where I managed to achieve an 86% mark and a 79% average mark for my third year overall. Main modules include Java, UNIX shell &amp; Databases, Data Structures &amp; Algorithms, Intelligent Systems (AI), Functional Programming, Interaction Design, Networks, Computer Vision, Cloud App Development, Computer Graphics, Game Development and Data Visualisation.
+        <p>Grade: First Class Honours (80%)</p>
+        <p>
+            Modules include, but not limited to, Java, UNIX shell &amp; Databases, Data Structures &amp; Algorithms, Intelligent Systems (AI), Functional Programming, Interaction Design, Networks, Computer Vision, Cloud App Development, Computer Graphics, Game Development, Data Visualisation, Intelligent Agents, Semantic Web and Open Data Innovation.
+        </p>
 		</div>
 
 		<div style="margin-bottom: 40px">
@@ -46,6 +49,12 @@ Alternatively, download a <a href="{{ site.baseurl }}public/resources/curriculum
 	<div class="section-title">WORK EXPERIENCE</div>
 
 	<div>
+        
+        <div style="margin-bottom: 40px">
+		<b>Technology Analyst</b>
+		<p style="color: #2e8ccf">Deloitte, London, September 2017 - Present</p>
+		Working in Deloitte Digital as a digital engineer.
+		</div>
 
 		<div style="margin-bottom: 40px">
 		<b>Technology and Operations Intern</b>
@@ -178,6 +187,11 @@ Alternatively, download a <a href="{{ site.baseurl }}public/resources/curriculum
         <div style="margin-bottom: 40px">
 		<b>Game Development</b>
 		<p>Participated in the Global Game Jam hosted in Southampton.</p>
+		</div>
+        
+        <div style="margin-bottom: 40px">
+		<b>Tennis</b>
+		<p>Played and trained in the University of Southampton's development squad.</p>
 		</div>
 
 	</div>
