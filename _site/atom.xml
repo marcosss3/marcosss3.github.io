@@ -4,7 +4,7 @@
  <title>Marcos Tam</title>
  <link href="/atom.xml" rel="self"/>
  <link href="/"/>
- <updated>2016-10-19T18:35:20+01:00</updated>
+ <updated>2017-10-09T23:26:00+01:00</updated>
  <id></id>
  <author>
    <name>Marcos Tam</name>
@@ -13,12 +13,132 @@
 
  
  <entry>
+   <title>UniCity</title>
+   <link href="/portfolio/unicity.html"/>
+   <updated>2017-05-18T00:00:00+01:00</updated>
+   <id>/portfolio/unicity</id>
+   <content type="html">&lt;p&gt;Open data is the basis to provide intuitive and assistive applications or software. Data is typically raw and requires deciphering. With the help of application development, they can act as a source for intangible information. Therefore, with the help of UniCity, this application can act as a platform for upcoming university students to retrieve vital information in regards to their respective universities. Moreover, the application also provides API capabilities for developers seeking readily available data to be exported and exposed in whatever their style or fashion.&lt;/p&gt;
+
+&lt;p&gt;Technologies used:&lt;/p&gt;
+
+&lt;p class=&quot;message&quot;&gt;
+  JavaScript, HTML5, CSS3, AngularJS, Google Charts
+&lt;/p&gt;
+
+&lt;p&gt;Team members:&lt;/p&gt;
+
+&lt;p class=&quot;message&quot;&gt;
+  Edita, George, Marcos, Richard, Thomas
+&lt;/p&gt;
+
+&lt;div class=&quot;separator&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;/portfolio/images/unicity/1.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/unicity/2.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/unicity/3.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/unicity/4.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/unicity/5.png&quot; class=&quot;post-img&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>US Government</title>
+   <link href="/portfolio/us-government.html"/>
+   <updated>2017-03-20T00:00:00+00:00</updated>
+   <id>/portfolio/us-government</id>
+   <content type="html">&lt;p&gt;“This coursework requires you to take a provided dataset and create two of different and appropriate interactive web visualisations. You will be required to clean and perform simple manipulation upon the dataset to prepare it for visualising as well as fixing errors.”&lt;/p&gt;
+
+&lt;p&gt;The first data visualisation is a bubble chart that plots the start date of US government projects against their cost. The radius of each ‘bubble’ is based on the duration of the project, whilst the unique colour encodes the corresponding agency. The second data visualisation is a sunburst chart which illustrates the hierarchies within the US government projects dataset, with each level corresponding to agency, investment title and project name respectively. The rings are sliced up and divided based on relative costs.&lt;/p&gt;
+
+&lt;p&gt;Technologies used:&lt;/p&gt;
+
+&lt;p class=&quot;message&quot;&gt;
+  JavaScript, HTML5, CSS3, AngularJS, D3
+&lt;/p&gt;
+
+&lt;p&gt;Team members:&lt;/p&gt;
+
+&lt;div class=&quot;separator&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;/portfolio/images/us-government/1.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/us-government/2.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/us-government/3.png&quot; class=&quot;post-img&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Brexit</title>
+   <link href="/portfolio/brexit.html"/>
+   <updated>2017-01-10T00:00:00+00:00</updated>
+   <id>/portfolio/brexit</id>
+   <content type="html">&lt;p&gt;It has been a couple of months since the outcome of the EU Referendum was officially announced as ‘leave’. We explore whether this has affected the UK tourism industry. Do airlines expect a drop in travel abroad? Are foreign tourists spending less on their holidays? Scroll down to see the impact of Brexit on different areas related to tourism.&lt;/p&gt;
+
+&lt;p&gt;Technologies used:&lt;/p&gt;
+
+&lt;p class=&quot;message&quot;&gt;
+  JavaScript, HTML5, CSS3, AngularJS, D3
+&lt;/p&gt;
+
+&lt;p&gt;Team members:&lt;/p&gt;
+
+&lt;p class=&quot;message&quot;&gt;
+  Alex, Anthony, Jack, Marcos
+&lt;/p&gt;
+
+&lt;div class=&quot;separator&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;/portfolio/images/brexit/1.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/brexit/2.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/brexit/3.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/brexit/4.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/brexit/5.png&quot; class=&quot;post-img&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Digital Signage</title>
+   <link href="/portfolio/digital-signage.html"/>
+   <updated>2016-10-27T00:00:00+01:00</updated>
+   <id>/portfolio/digital-signage</id>
+   <content type="html">&lt;p&gt;The fourth year of an integrated masters degree requires students to work in groups of four on a challenging project which is typically based on an idea from an industrial partner. Our project will design and implement a room booking system to be installed into the offices of JPMorgan. The system will utilise tablet devices attached to the outside of meeting rooms to show ‘at a glance’ the availability of rooms and allow members of staff to ‘check in’ to the room they have booked. The application will additionally allow the ‘instant booking’ of rooms that are currently available.&lt;/p&gt;
+
+&lt;p&gt;Technologies used:&lt;/p&gt;
+
+&lt;p class=&quot;message&quot;&gt;
+  JavaScript, HTML5, CSS3, Java, SQL, React Native, Spring Framework, MariaDB, Balsamiq Mockups
+&lt;/p&gt;
+
+&lt;p&gt;Team Members:&lt;/p&gt;
+
+&lt;p class=&quot;message&quot;&gt;
+  George, Marcos, Richard, Saber
+&lt;/p&gt;
+
+&lt;div class=&quot;separator&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;/portfolio/images/digital-signage/1.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/digital-signage/2.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/digital-signage/3.png&quot; class=&quot;post-img&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;separator&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;/portfolio/images/digital-signage/4.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/digital-signage/5.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/digital-signage/6.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/digital-signage/7.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/digital-signage/8.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/digital-signage/9.png&quot; class=&quot;post-img&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>ScholarWiz</title>
    <link href="/portfolio/scholarwiz.html"/>
    <updated>2016-04-20T00:00:00+01:00</updated>
    <id>/portfolio/scholarwiz</id>
-   <content type="html">&lt;p&gt;My third year project consisted in building an innovative user interface that clearly displays core metadata from academic papers and features user interaction techniques as well as useful visualizations which enable pleasant search and discovery experiences. The system is implemented as a web application with a Java server-side and a JavaScript client-side, using the &lt;a&gt;Spark&lt;/a&gt;
-and &lt;a&gt;AngularJS&lt;/a&gt; frameworks respectively, as well as a third party database API (&lt;a&gt;Scopus&lt;/a&gt;).&lt;/p&gt;
+   <content type="html">&lt;p&gt;Read the full paper &lt;a href=&quot;/public/resources/Thesis.pdf&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;My third year project consisted in building an innovative user interface that clearly displays core metadata from academic papers and features user interaction techniques as well as useful visualizations which enable pleasant search and discovery experiences. The system is implemented as a web application with a Java server-side and a JavaScript client-side, using the Spark and AngularJS frameworks respectively, as well as a third party database API (Scopus).&lt;/p&gt;
 
 &lt;p&gt;Technologies used:&lt;/p&gt;
 
@@ -168,6 +288,34 @@ and &lt;a&gt;AngularJS&lt;/a&gt; frameworks respectively, as well as a third par
 
 &lt;p&gt;&lt;img src=&quot;/portfolio/images/light-box/1.png&quot; class=&quot;post-img&quot; /&gt;
 &lt;img src=&quot;/portfolio/images/light-box/2.png&quot; class=&quot;post-img&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Auction System</title>
+   <link href="/portfolio/auction-system.html"/>
+   <updated>2014-04-20T00:00:00+01:00</updated>
+   <id>/portfolio/auction-system</id>
+   <content type="html">&lt;p&gt;This task consisted in writing the software to manage an auction. The requirements specified the implementation of a Java application for the Server, which receives requests from a number of Client applications and processes them appropriately. The Server is responsible for managing the auction, whilst the Client application allows users to participate in the auction.&lt;/p&gt;
+
+&lt;p&gt;Technologies used:&lt;/p&gt;
+
+&lt;p class=&quot;message&quot;&gt;
+  Java
+&lt;/p&gt;
+
+&lt;div class=&quot;separator&quot;&gt;&lt;/div&gt;
+
+&lt;div style=&quot;text-align: center&quot;&gt;
+
+&lt;img src=&quot;/portfolio/images/auction-system/1.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/auction-system/2.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/auction-system/3.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/auction-system/4.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/auction-system/5.png&quot; class=&quot;post-img&quot; /&gt;
+&lt;img src=&quot;/portfolio/images/auction-system/6.png&quot; class=&quot;post-img&quot; /&gt;
+
+&lt;/div&gt;
 </content>
  </entry>
  
