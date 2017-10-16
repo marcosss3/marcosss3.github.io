@@ -22,10 +22,10 @@ Team Members:
 <div class="separator"></div>
 
 <div class="img-row">
- <img src="{{ site.baseurl }}portfolio/images/final-light/1.png" alt=""  /> 
- <img src="{{ site.baseurl }}portfolio/images/final-light/2.png" alt=""  />
- <img src="{{ site.baseurl }}portfolio/images/final-light/3.png" alt="" />
+ <img src="/{{ site.baseurl }}portfolio/images/final-light/1.png" alt=""  /> 
+ <img src="/{{ site.baseurl }}portfolio/images/final-light/2.png" alt=""  />
+ <img src="/{{ site.baseurl }}portfolio/images/final-light/3.png" alt="" />
 </div>
 
-<img src="{{ site.baseurl }}portfolio/images/final-light/anim1.gif" style="width: 100%" class="post-img">
-<img src="{{ site.baseurl }}portfolio/images/final-light/anim2.gif" style="width: 100%" class="post-img">
+<img src="/{{ site.baseurl }}portfolio/images/final-light/anim1.gif" style="width: 100%" class="post-img">
+<img src="/{{ site.baseurl }}portfolio/images/final-light/anim2.gif" style="width: 100%" class="post-img">

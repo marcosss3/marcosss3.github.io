@@ -19,6 +19,6 @@ Team members:
 
 <div class="separator"></div>
 
-<img src="{{ site.baseurl }}portfolio/images/us-government/1.png" class="post-img">
-<img src="{{ site.baseurl }}portfolio/images/us-government/2.png" class="post-img">
-<img src="{{ site.baseurl }}portfolio/images/us-government/3.png" class="post-img">
+<img src="/{{ site.baseurl }}portfolio/images/us-government/1.png" class="post-img">
+<img src="/{{ site.baseurl }}portfolio/images/us-government/2.png" class="post-img">
+<img src="/{{ site.baseurl }}portfolio/images/us-government/3.png" class="post-img">

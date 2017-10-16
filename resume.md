@@ -3,7 +3,7 @@ layout: page
 title: Resume
 ---
 
-Alternatively, download a <a href="{{ site.baseurl }}public/resources/curriculum.pdf" target="_blank">PDF version</a>
+Alternatively, download a <a href="/{{ site.baseurl }}public/resources/curriculum.pdf" target="_blank">PDF version</a>
 
 <div class="resume-section">
 

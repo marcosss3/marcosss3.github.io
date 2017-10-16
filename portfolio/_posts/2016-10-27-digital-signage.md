@@ -21,15 +21,15 @@ Team Members:
 
 <div class="separator"></div>
 
-<img src="{{ site.baseurl }}portfolio/images/digital-signage/1.png" class="post-img">
-<img src="{{ site.baseurl }}portfolio/images/digital-signage/2.png" class="post-img">
-<img src="{{ site.baseurl }}portfolio/images/digital-signage/3.png" class="post-img">
+<img src="/{{ site.baseurl }}portfolio/images/digital-signage/1.png" class="post-img">
+<img src="/{{ site.baseurl }}portfolio/images/digital-signage/2.png" class="post-img">
+<img src="/{{ site.baseurl }}portfolio/images/digital-signage/3.png" class="post-img">
 
 <div class="separator"></div>
 
-<img src="{{ site.baseurl }}portfolio/images/digital-signage/4.png" class="post-img">
-<img src="{{ site.baseurl }}portfolio/images/digital-signage/5.png" class="post-img">
-<img src="{{ site.baseurl }}portfolio/images/digital-signage/6.png" class="post-img">
-<img src="{{ site.baseurl }}portfolio/images/digital-signage/7.png" class="post-img">
-<img src="{{ site.baseurl }}portfolio/images/digital-signage/8.png" class="post-img">
-<img src="{{ site.baseurl }}portfolio/images/digital-signage/9.png" class="post-img">
+<img src="/{{ site.baseurl }}portfolio/images/digital-signage/4.png" class="post-img">
+<img src="/{{ site.baseurl }}portfolio/images/digital-signage/5.png" class="post-img">
+<img src="/{{ site.baseurl }}portfolio/images/digital-signage/6.png" class="post-img">
+<img src="/{{ site.baseurl }}portfolio/images/digital-signage/7.png" class="post-img">
+<img src="/{{ site.baseurl }}portfolio/images/digital-signage/8.png" class="post-img">
+<img src="/{{ site.baseurl }}portfolio/images/digital-signage/9.png" class="post-img">

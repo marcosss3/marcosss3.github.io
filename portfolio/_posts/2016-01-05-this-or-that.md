@@ -21,10 +21,10 @@ Team members:
 
 <div class="separator"></div>
 
-<img src="{{ site.baseurl }}portfolio/images/this-or-that/1.png" class="post-img">
-<img src="{{ site.baseurl }}portfolio/images/this-or-that/2.png" class="post-img">
-<img src="{{ site.baseurl }}portfolio/images/this-or-that/3.png" class="post-img">
-<img src="{{ site.baseurl }}portfolio/images/this-or-that/4.png" class="post-img">
-<img src="{{ site.baseurl }}portfolio/images/this-or-that/5.png" class="post-img">
-<img src="{{ site.baseurl }}portfolio/images/this-or-that/6.png" class="post-img">
-<img src="{{ site.baseurl }}portfolio/images/this-or-that/7.png" class="post-img">
+<img src="/{{ site.baseurl }}portfolio/images/this-or-that/1.png" class="post-img">
+<img src="/{{ site.baseurl }}portfolio/images/this-or-that/2.png" class="post-img">
+<img src="/{{ site.baseurl }}portfolio/images/this-or-that/3.png" class="post-img">
+<img src="/{{ site.baseurl }}portfolio/images/this-or-that/4.png" class="post-img">
+<img src="/{{ site.baseurl }}portfolio/images/this-or-that/5.png" class="post-img">
+<img src="/{{ site.baseurl }}portfolio/images/this-or-that/6.png" class="post-img">
+<img src="/{{ site.baseurl }}portfolio/images/this-or-that/7.png" class="post-img">

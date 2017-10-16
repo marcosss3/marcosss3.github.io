@@ -15,7 +15,7 @@ Technologies used:
 
 <div class="separator"></div>
 
-<img src="{{ site.baseurl }}portfolio/images/fractal-explorer/1.png" class="post-img">
-<img src="{{ site.baseurl }}portfolio/images/fractal-explorer/2.png" class="post-img">
-<img src="{{ site.baseurl }}portfolio/images/fractal-explorer/3.png" class="post-img">
-<img src="{{ site.baseurl }}portfolio/images/fractal-explorer/4.png" class="post-img">
+<img src="/{{ site.baseurl }}portfolio/images/fractal-explorer/1.png" class="post-img">
+<img src="/{{ site.baseurl }}portfolio/images/fractal-explorer/2.png" class="post-img">
+<img src="/{{ site.baseurl }}portfolio/images/fractal-explorer/3.png" class="post-img">
+<img src="/{{ site.baseurl }}portfolio/images/fractal-explorer/4.png" class="post-img">

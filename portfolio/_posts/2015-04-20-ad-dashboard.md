@@ -21,8 +21,8 @@ Team Members:
 
 <div class="separator"></div>
 
-<img src="{{ site.baseurl }}portfolio/images/dashboard/1.png" class="post-img">
-<img src="{{ site.baseurl }}portfolio/images/dashboard/2.png" class="post-img">
-<img src="{{ site.baseurl }}portfolio/images/dashboard/3.png" class="post-img">
-<img src="{{ site.baseurl }}portfolio/images/dashboard/4.png" class="post-img">
-<img src="{{ site.baseurl }}portfolio/images/dashboard/5.png" class="post-img">
+<img src="/{{ site.baseurl }}portfolio/images/dashboard/1.png" class="post-img">
+<img src="/{{ site.baseurl }}portfolio/images/dashboard/2.png" class="post-img">
+<img src="/{{ site.baseurl }}portfolio/images/dashboard/3.png" class="post-img">
+<img src="/{{ site.baseurl }}portfolio/images/dashboard/4.png" class="post-img">
+<img src="/{{ site.baseurl }}portfolio/images/dashboard/5.png" class="post-img">
