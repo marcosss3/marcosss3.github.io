@@ -5,6 +5,7 @@ title: Resume
 
 Alternatively, download a <a href="/{{ site.baseurl }}public/resources/curriculum.pdf" target="_blank">PDF version</a>
 
+<!--
 <div class="resume-section">
 
 	<div class="section-title">PROFILE</div>
@@ -18,6 +19,7 @@ Alternatively, download a <a href="/{{ site.baseurl }}public/resources/curriculu
 	</div>
 
 </div>
+-->
 
 <div class="resume-section">
 
